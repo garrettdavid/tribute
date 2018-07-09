@@ -1,0 +1,24 @@
+body {
+  background-color: #dddddd;
+}
+
+#title, #img-caption, .text-info, footer {
+  color: #333333;
+  font-family: 'Lato', sans-serif;
+}
+
+#title, #img-caption, footer {
+  text-align: center;
+}
+
+.text-info {
+  margin: 1vmax 2vmax;
+  font-size: 1.2em;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
